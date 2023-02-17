@@ -7,7 +7,6 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-I
 {
 int d, p;
 for (d = '0'; d < '9'; d++)
